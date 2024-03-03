@@ -1,0 +1,10 @@
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\bin\Debug\tpmodul3_1302223006.exe.config
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\bin\Debug\tpmodul3_1302223006.exe
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\bin\Debug\tpmodul3_1302223006.pdb
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.csproj.AssemblyReference.cache
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.Form1.resources
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.Properties.Resources.resources
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.csproj.GenerateResource.cache
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.csproj.CoreCompileInputs.cache
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.exe
+C:\Users\SORAYA\source\repos\tpmodul3_1302223006\tpmodul3_1302223006\obj\Debug\tpmodul3_1302223006.pdb

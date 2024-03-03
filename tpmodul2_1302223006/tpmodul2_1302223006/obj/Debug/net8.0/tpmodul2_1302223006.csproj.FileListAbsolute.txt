@@ -1,0 +1,14 @@
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.AssemblyInfoInputs.cache
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.AssemblyInfo.cs
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.csproj.CoreCompileInputs.cache
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\bin\Debug\net8.0\tpmodul2_1302223006.exe
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\bin\Debug\net8.0\tpmodul2_1302223006.deps.json
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\bin\Debug\net8.0\tpmodul2_1302223006.runtimeconfig.json
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\bin\Debug\net8.0\tpmodul2_1302223006.dll
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\bin\Debug\net8.0\tpmodul2_1302223006.pdb
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.dll
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\refint\tpmodul2_1302223006.dll
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.pdb
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\tpmodul2_1302223006.genruntimeconfig.cache
+C:\Users\SORAYA\source\repos\tpmodul2_1302223006\tpmodul2_1302223006\obj\Debug\net8.0\ref\tpmodul2_1302223006.dll
